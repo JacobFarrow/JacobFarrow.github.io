@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "personal-website",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Software Engineer\nRexburg, ID | (208) 948-7626 jacob-farrow@outlook.com | GitHub\nSoftware engineer focused on building robust, scalable systems through thoughtful architectural design and a detail-oriented approach to code quality. Interested in algorithmic precision and continuous optimization to keep solutions efficient and maintainable.\n\n\n\nClassroom Technology Technician | Brigham Young University Idaho, Rexburg, ID June 2025 – Present\n\nPerformed root-cause analysis on recurring system failures, separating software bugs from hardware faults to implement long-term fixes.\nApplied an agile approach to ticket resolution, prioritizing critical system outages to minimize disruption to faculty and students.\n\nAssistive Technology Technician | Northamptonshire County Council, Northampton, England March 2024 – March 2025\n\nProgrammed systems to provide aid for vulnerable groups.\nWorked with groups of developers to improve software and customer experience.\nProvided Tier-2 technical support, diagnosing software and hardware integration issues, and translating technical requirements for non-technical users.\n\nFull-Time Volunteer & Team Lead 2022 – 2024\n\nConducted daily outreach and public-speaking sessions, using clear messaging to engage community members and increase event attendance.\nDirected regional workflows and managed team logistics for a group of volunteers, ensuring high productivity and goal alignment.\n\n\n\n\n\nBachelor of Science in Computer Science | Brigham Young University Idaho Expected December 2027\nEmphasis: Software Engineering / Cyber Security\n\n\n\n\n\nLanguages: Python, C#, C++\nFrameworks & Libraries: .NET Core / .NET 5+\nTools & Platforms: Git, VS Code, Rider\nOther: Object-oriented programming, strong communication skills"
+  },
+  {
+    "objectID": "resume.html#jacob-farrow",
+    "href": "resume.html#jacob-farrow",
+    "title": "Resume",
+    "section": "",
+    "text": "Software Engineer\nRexburg, ID | (208) 948-7626 jacob-farrow@outlook.com | GitHub\nSoftware engineer focused on building robust, scalable systems through thoughtful architectural design and a detail-oriented approach to code quality. Interested in algorithmic precision and continuous optimization to keep solutions efficient and maintainable.\n\n\n\nClassroom Technology Technician | Brigham Young University Idaho, Rexburg, ID June 2025 – Present\n\nPerformed root-cause analysis on recurring system failures, separating software bugs from hardware faults to implement long-term fixes.\nApplied an agile approach to ticket resolution, prioritizing critical system outages to minimize disruption to faculty and students.\n\nAssistive Technology Technician | Northamptonshire County Council, Northampton, England March 2024 – March 2025\n\nProgrammed systems to provide aid for vulnerable groups.\nWorked with groups of developers to improve software and customer experience.\nProvided Tier-2 technical support, diagnosing software and hardware integration issues, and translating technical requirements for non-technical users.\n\nFull-Time Volunteer & Team Lead 2022 – 2024\n\nConducted daily outreach and public-speaking sessions, using clear messaging to engage community members and increase event attendance.\nDirected regional workflows and managed team logistics for a group of volunteers, ensuring high productivity and goal alignment.\n\n\n\n\n\nBachelor of Science in Computer Science | Brigham Young University Idaho Expected December 2027\nEmphasis: Software Engineering / Cyber Security\n\n\n\n\n\nLanguages: Python, C#, C++\nFrameworks & Libraries: .NET Core / .NET 5+\nTools & Platforms: Git, VS Code, Rider\nOther: Object-oriented programming, strong communication skills"
   },
   {
     "objectID": "about.html",
@@ -12,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "personal-website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
