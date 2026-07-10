@@ -3,18 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "personal-website"
+  title: "Jacob Farrow"
+  description: "Software Engineer & Computer Science Student"
   navbar:
+    background: dark
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - resume.qmd
+      - href: resume.qmd
+        text: Resume
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/JacobFarrow
+        aria-label: GitHub
 
 format:
   html:
     theme:
       - cosmo
-      - brand
+      - styles.scss
     css: styles.css
-    toc: true
+    toc: false
+    page-layout: full
+    fontsize: 1.05rem
+    linkcolor: "#2b6cb0"

@@ -2,51 +2,103 @@
 title: "Resume"
 ---
 
-## Jacob Farrow
-**Software Engineer**
-
-Rexburg, ID | (208) 948-7626
-[jacob-farrow@outlook.com](mailto:jacob-farrow@outlook.com) | [GitHub](https://github.com/JacobFarrow)
+::: {.resume-header}
+# Jacob Farrow
+::: {.hero-subtitle}
+Software Engineer
+:::
+::: {.resume-contact}
+Rexburg, ID &nbsp;|&nbsp; (208) 948-7626 &nbsp;|&nbsp;
+[jacob-farrow@outlook.com](mailto:jacob-farrow@outlook.com) &nbsp;|&nbsp;
+[GitHub](https://github.com/JacobFarrow)
+:::
+:::
 
 Software engineer focused on building robust, scalable systems through thoughtful architectural design and a detail-oriented approach to code quality. Interested in algorithmic precision and continuous optimization to keep solutions efficient and maintainable.
 
----
+::: {.section-title}
+Professional Experience
+:::
 
-### Professional Experience
-
-**Classroom Technology Technician** | Brigham Young University Idaho, Rexburg, ID
-*June 2025 – Present*
-
+::: {.timeline-item}
+### Classroom Technology Technician
+::: {.timeline-role}
+Brigham Young University Idaho, Rexburg, ID
+:::
+::: {.timeline-date}
+June 2025 – Present
+:::
 - Performed root-cause analysis on recurring system failures, separating software bugs from hardware faults to implement long-term fixes.
 - Applied an agile approach to ticket resolution, prioritizing critical system outages to minimize disruption to faculty and students.
+:::
 
-**Assistive Technology Technician** | Northamptonshire County Council, Northampton, England
-*March 2024 – March 2025*
-
+::: {.timeline-item}
+### Assistive Technology Technician
+::: {.timeline-role}
+Northamptonshire County Council, Northampton, England
+:::
+::: {.timeline-date}
+March 2024 – March 2025
+:::
 - Programmed systems to provide aid for vulnerable groups.
 - Worked with groups of developers to improve software and customer experience.
 - Provided Tier-2 technical support, diagnosing software and hardware integration issues, and translating technical requirements for non-technical users.
+:::
 
-**Full-Time Volunteer & Team Lead**
-*2022 – 2024*
-
+::: {.timeline-item}
+### Full-Time Volunteer & Team Lead
+::: {.timeline-date}
+2022 – 2024
+:::
 - Conducted daily outreach and public-speaking sessions, using clear messaging to engage community members and increase event attendance.
 - Directed regional workflows and managed team logistics for a group of volunteers, ensuring high productivity and goal alignment.
+:::
 
----
+::: {.section-title}
+Education
+:::
 
-### Education
-
-**Bachelor of Science in Computer Science** | Brigham Young University Idaho
-*Expected December 2027*
-
+::: {.timeline-item}
+### Bachelor of Science in Computer Science
+::: {.timeline-role}
+Brigham Young University Idaho
+:::
+::: {.timeline-date}
+Expected December 2027
+:::
 Emphasis: Software Engineering / Cyber Security
+:::
 
----
+::: {.section-title}
+Skills
+:::
 
-### Skills
+**Languages**
 
-- **Languages:** Python, C#, C++
-- **Frameworks & Libraries:** .NET Core / .NET 5+
-- **Tools & Platforms:** Git, VS Code, Rider
-- **Other:** Object-oriented programming, strong communication skills
+::: {.badge-row}
+[Python]{.skill-badge}
+[C#]{.skill-badge}
+[C++]{.skill-badge}
+:::
+
+**Frameworks & Libraries**
+
+::: {.badge-row}
+[.NET Core]{.skill-badge}
+[.NET 5+]{.skill-badge}
+:::
+
+**Tools & Platforms**
+
+::: {.badge-row}
+[Git]{.skill-badge}
+[VS Code]{.skill-badge}
+[Rider]{.skill-badge}
+:::
+
+**Other**
+
+::: {.badge-row}
+[Object-Oriented Programming]{.skill-badge}
+[Communication]{.skill-badge}
+:::
