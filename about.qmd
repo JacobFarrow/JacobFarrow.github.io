@@ -6,23 +6,23 @@ title: "About"
 # About Me
 :::
 
-I'm a Computer Science student at Brigham Young University Idaho, set to graduate in December 2027 with an emphasis in Software Engineering and Cyber Security. I'm interested in building well-structured, maintainable software and enjoy the process of taking a project from a rough idea to a finished, working product.
+I'm a Computer Science student at Brigham Young University Idaho, with an expected graduation of December 2027 and an emphasis in Software Engineering and Cyber Security.
 
-Outside of coursework, I like exploring game development as a creative outlet, currently working on a Unity-based dungeon crawler with custom enemy types, sound, and pixel art. I also enjoy tactical strategy games, which has turned into a hobby of building and testing systems in Football Manager.
+My professional background includes technical support and systems work, from diagnosing software and hardware issues as a Classroom Technology Technician to providing Tier-2 support and translating technical requirements for non-technical users in a previous role. I've also led teams and coordinated logistics in a full-time capacity, which has strengthened my communication and leadership skills alongside my technical work.
 
 ::: {.section-title}
-What I'm Into
+Skills
 :::
 
 ::: {.badge-row}
-[Software Engineering]{.skill-badge}
-[Game Development]{.skill-badge}
-[Data Analysis]{.skill-badge}
-[Algorithms]{.skill-badge}
-[Cyber Security]{.skill-badge}
-[C#]{.skill-badge}
 [Python]{.skill-badge}
-[Unity]{.skill-badge}
+[C#]{.skill-badge}
+[C++]{.skill-badge}
+[.NET Core / .NET 5+]{.skill-badge}
+[Git]{.skill-badge}
+[VS Code]{.skill-badge}
+[Rider]{.skill-badge}
+[Object-Oriented Programming]{.skill-badge}
 :::
 
 ::: {.section-title}

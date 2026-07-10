@@ -6,10 +6,10 @@ page-layout: full
 ::: {.hero}
 # Jacob Farrow
 ::: {.hero-subtitle}
-Software Engineer & Computer Science Student
+Software Engineer
 :::
 ::: {.hero-tagline}
-I build robust, scalable software and enjoy digging into the details that make systems reliable, from full-stack web apps to game development projects. Currently studying Computer Science at BYU-Idaho with an emphasis in Software Engineering and Cyber Security.
+I focus on building robust, scalable systems through careful architectural design and a detail-oriented approach to code quality, with an emphasis on algorithmic precision and continuous optimization. Currently studying Computer Science at Brigham Young University Idaho with an emphasis in Software Engineering and Cyber Security.
 :::
 ::: {.hero-buttons}
 [View Resume](resume.qmd){.btn-hero .btn-hero-primary}
@@ -20,25 +20,25 @@ I build robust, scalable software and enjoy digging into the details that make s
 ::: {.card-grid}
 ::: {.info-card}
 ::: {.icon}
-🛠️
+🖥️
 :::
-### Software Engineering
-Full-stack development experience with React, TypeScript, C# ASP.NET Core, and SQLite, including authentication and interactive UI features.
-:::
-
-::: {.info-card}
-::: {.icon}
-🎮
-:::
-### Game Development
-Built Unity projects in C#, including an RPG battle system and a dungeon crawler with enemy AI, sound, and multiple levels.
+### Technical Support & Systems
+Experience diagnosing software and hardware issues, performing root-cause analysis, and resolving tickets using an agile approach.
 :::
 
 ::: {.info-card}
 ::: {.icon}
-📊
+💻
 :::
-### Data & Analysis
-Comfortable working with Python and data tooling for analysis and reporting, with a strong foundation in algorithms and problem solving.
+### Programming
+Working knowledge of Python, C#, and C++, with experience in .NET Core / .NET 5+.
+:::
+
+::: {.info-card}
+::: {.icon}
+🤝
+:::
+### Communication & Leadership
+Experience leading teams and communicating technical requirements clearly to non-technical audiences.
 :::
 :::
