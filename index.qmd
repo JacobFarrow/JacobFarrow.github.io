@@ -29,6 +29,8 @@ Featured Projects
 :::
 ### TaskPortal
 Full-stack task/project management app — ASP.NET Core 8 Web API + React/TypeScript frontend, JWT authentication, user-scoped data isolation, drag-and-drop Kanban board, and Swagger-documented API.
+
+[View on GitHub →](https://github.com/JacobFarrow/Task-Management){.card-link}
 :::
 
 ::: {.info-card}
@@ -37,6 +39,8 @@ Full-stack task/project management app — ASP.NET Core 8 Web API + React/TypeSc
 :::
 ### FlashCardApp
 Cross-platform mobile flashcard app built in .NET MAUI with local SQLite persistence, custom study sets, and a quiz mode with score tracking.
+
+[View on GitHub →](https://github.com/JacobFarrow/FlashCardApp){.card-link}
 :::
 
 ::: {.info-card}
@@ -45,6 +49,8 @@ Cross-platform mobile flashcard app built in .NET MAUI with local SQLite persist
 :::
 ### Password Manager
 Desktop password manager with a Python/Tkinter GUI that encrypts stored credentials at rest to protect user data.
+
+[View on GitHub →](https://github.com/JacobFarrow/Password_Manager){.card-link}
 :::
 :::
 
