@@ -9,36 +9,71 @@ page-layout: full
 Software Engineer
 :::
 ::: {.hero-tagline}
-I focus on building robust, scalable systems through careful architectural design and a detail-oriented approach to code quality, with an emphasis on algorithmic precision and continuous optimization. Currently studying Computer Science at Brigham Young University Idaho with an emphasis in Software Engineering and Cyber Security.
+C#/.NET developer and Computer Science student at Brigham Young University Idaho (Software Engineering / Cyber Security emphasis) with hands-on experience across backend APIs (ASP.NET Core), fullstack web (React/TypeScript), and mobile (.NET MAUI). I build independent projects in API design and authentication alongside my coursework.
 :::
 ::: {.hero-buttons}
 [View Resume](resume.qmd){.btn-hero .btn-hero-primary}
+[Download Resume (PDF)](files/Jacob_Farrow_Resume.pdf){.btn-hero .btn-hero-outline download="Jacob_Farrow_Resume.pdf"}
 [GitHub Profile](https://github.com/JacobFarrow){.btn-hero .btn-hero-outline}
 :::
+:::
+
+::: {.section-title}
+Featured Projects
 :::
 
 ::: {.card-grid}
 ::: {.info-card}
 ::: {.icon}
-🖥️
+🗂️
 :::
-### Technical Support & Systems
-Experience diagnosing software and hardware issues, performing root-cause analysis, and resolving tickets using an agile approach.
+### TaskPortal
+Full-stack task/project management app — ASP.NET Core 8 Web API + React/TypeScript frontend, JWT authentication, user-scoped data isolation, drag-and-drop Kanban board, and Swagger-documented API.
 :::
 
+::: {.info-card}
+::: {.icon}
+📱
+:::
+### FlashCardApp
+Cross-platform mobile flashcard app built in .NET MAUI with local SQLite persistence, custom study sets, and a quiz mode with score tracking.
+:::
+
+::: {.info-card}
+::: {.icon}
+🔐
+:::
+### Password Manager
+Desktop password manager with a Python/Tkinter GUI that encrypts stored credentials at rest to protect user data.
+:::
+:::
+
+::: {.section-title}
+What I Do
+:::
+
+::: {.card-grid}
 ::: {.info-card}
 ::: {.icon}
 💻
 :::
-### Programming
-Working knowledge of Python, C#, and C++, with experience in .NET Core / .NET 5+.
+### Backend & Fullstack Development
+Building APIs and web apps with ASP.NET Core, Entity Framework Core, React, and TypeScript, including JWT/OAuth-based authentication.
 :::
 
 ::: {.info-card}
 ::: {.icon}
-🤝
+📲
 :::
-### Communication & Leadership
-Experience leading teams and communicating technical requirements clearly to non-technical audiences.
+### Mobile Development
+Cross-platform mobile apps with .NET MAUI and SQLite, from UI design to local data persistence.
+:::
+
+::: {.info-card}
+::: {.icon}
+🖥️
+:::
+### Systems & Technical Support
+Supporting technology infrastructure across a 25-building, 21,000-person campus, resolving ~50 tickets/week and performing root-cause analysis on recurring system failures.
 :::
 :::
