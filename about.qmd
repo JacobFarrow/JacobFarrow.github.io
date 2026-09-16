@@ -6,23 +6,38 @@ title: "About"
 # About Me
 :::
 
-I'm a Computer Science student at Brigham Young University Idaho, with an expected graduation of December 2027 and an emphasis in Software Engineering and Cyber Security.
+I'm a Computer Science student at Brigham Young University Idaho, with an expected graduation of December 2027 and an emphasis in Software Engineering and Cyber Security. I'm a C#/.NET developer with hands-on experience across backend APIs (ASP.NET Core), fullstack web development (React/TypeScript), and mobile development (.NET MAUI).
 
-My professional background includes technical support and systems work, from diagnosing software and hardware issues as a Classroom Technology Technician to providing Tier-2 support and translating technical requirements for non-technical users in a previous role. I've also led teams and coordinated logistics in a full-time capacity, which has strengthened my communication and leadership skills alongside my technical work.
+Outside of coursework, I build independent projects focused on API design and authentication — including a full-stack task management app with JWT-secured, user-scoped data, a cross-platform mobile flashcard app, and a desktop password manager with encryption at rest.
+
+My professional background also includes technical support and systems work: I currently support technology infrastructure across a 25-building, 21,000-person campus as a Classroom Technology Technician, resolving an average of 50 tickets per week and performing root-cause analysis to separate software bugs from hardware faults. Previously, as an Assistive Technology Technician, I provided Tier-2 support and translated technical requirements for non-technical users. I've also led teams and coordinated logistics in a full-time capacity, which has strengthened my communication and leadership skills alongside my technical work.
+
+::: {.hero-buttons}
+[Download Resume (PDF)](files/Jacob_Farrow_Resume.pdf){.btn-hero .btn-hero-primary download="Jacob_Farrow_Resume.pdf"}
+:::
 
 ::: {.section-title}
 Skills
 :::
 
 ::: {.badge-row}
-[Python]{.skill-badge}
 [C#]{.skill-badge}
-[C++]{.skill-badge}
-[.NET Core / .NET 5+]{.skill-badge}
+[Python]{.skill-badge}
+[SQL]{.skill-badge}
+[TypeScript]{.skill-badge}
+[ASP.NET Core]{.skill-badge}
+[.NET MAUI]{.skill-badge}
+[Entity Framework Core]{.skill-badge}
+[React]{.skill-badge}
 [Git]{.skill-badge}
 [VS Code]{.skill-badge}
 [Rider]{.skill-badge}
-[Object-Oriented Programming]{.skill-badge}
+[SQLite]{.skill-badge}
+[Swagger]{.skill-badge}
+[JWT/OAuth basics]{.skill-badge}
+[Object-Oriented Design]{.skill-badge}
+[RESTful APIs]{.skill-badge}
+[Agile/Scrum]{.skill-badge}
 :::
 
 ::: {.section-title}

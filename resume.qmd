@@ -12,9 +12,12 @@ Rexburg, ID &nbsp;|&nbsp; (208) 948-7626 &nbsp;|&nbsp;
 [jacob-farrow@outlook.com](mailto:jacob-farrow@outlook.com) &nbsp;|&nbsp;
 [GitHub](https://github.com/JacobFarrow)
 :::
+::: {.hero-buttons .resume-download}
+[Download Resume (PDF)](files/Jacob_Farrow_Resume.pdf){.btn-hero .btn-hero-primary download="Jacob_Farrow_Resume.pdf"}
+:::
 :::
 
-Software engineer focused on building robust, scalable systems through thoughtful architectural design and a detail-oriented approach to code quality. Interested in algorithmic precision and continuous optimization to keep solutions efficient and maintainable.
+C#/.NET developer and Computer Science student (BYU-Idaho) with hands-on experience across backend APIs (ASP.NET Core), fullstack web (React/TypeScript), and mobile (.NET MAUI). Currently supports technology infrastructure for a 25-building, 21,000-person campus while building independent projects in API design and authentication.
 
 ::: {.section-title}
 Professional Experience
@@ -28,8 +31,9 @@ Brigham Young University Idaho, Rexburg, ID
 ::: {.timeline-date}
 June 2025 – Present
 :::
-- Performed root-cause analysis on recurring system failures, separating software bugs from hardware faults to implement long-term fixes.
-- Applied an agile approach to ticket resolution, prioritizing critical system outages to minimize disruption to faculty and students.
+- Resolve an average of 50 IT tickets per week with same-day turnaround, supporting technology across 25 buildings serving 20,000+ students and 1,000 faculty.
+- Diagnose recurring system failures through root-cause analysis, distinguishing software bugs from hardware faults to implement long-term fixes instead of repeat patches.
+- Triage and prioritize critical outages using an agile approach to ticket resolution, minimizing disruption to faculty and students.
 :::
 
 ::: {.timeline-item}
@@ -40,18 +44,51 @@ Northamptonshire County Council, Northampton, England
 ::: {.timeline-date}
 March 2024 – March 2025
 :::
-- Programmed systems to provide aid for vulnerable groups.
-- Worked with groups of developers to improve software and customer experience.
-- Provided Tier-2 technical support, diagnosing software and hardware integration issues, and translating technical requirements for non-technical users.
+- Programmed and configured 100+ assistive technology units per week for vulnerable service users, helping cut hospital time roughly in half by enabling safe, independent living at home.
+- Partnered with a 2-person development team to improve software reliability and the day-to-day experience of the assistive technology platform.
+- Delivered Tier-2 technical support, diagnosing software/hardware integration issues and translating technical requirements for non-technical clients and caregivers.
 :::
 
 ::: {.timeline-item}
 ### Full-Time Volunteer & Team Lead
+::: {.timeline-role}
+The Church of Jesus Christ of Latter-day Saints
+:::
 ::: {.timeline-date}
 2022 – 2024
 :::
-- Conducted daily outreach and public-speaking sessions, using clear messaging to engage community members and increase event attendance.
-- Directed regional workflows and managed team logistics for a group of volunteers, ensuring high productivity and goal alignment.
+- Led daily outreach and public-speaking sessions to engage community members, strengthening communication skills in a high-pressure, full-time environment.
+- Directed regional workflows and logistics for a team of volunteers, coordinating schedules and priorities to keep the group productive and aligned on goals.
+:::
+
+::: {.section-title}
+Projects
+:::
+
+::: {.timeline-item}
+### TaskPortal
+::: {.timeline-role}
+C#, ASP.NET Core 8, Entity Framework Core, React, TypeScript, JWT &nbsp;|&nbsp; [github.com/JacobFarrow](https://github.com/JacobFarrow)
+:::
+- Built a full-stack task/project management app with an ASP.NET Core Web API backend and a React + TypeScript frontend, including JWT authentication and user-scoped data isolation.
+- Implemented a drag-and-drop Kanban board across multiple projects with task priority levels, due dates, and overdue-task highlighting; documented the API with Swagger.
+:::
+
+::: {.timeline-item}
+### FlashCardApp
+::: {.timeline-role}
+C#, .NET MAUI, SQLite &nbsp;|&nbsp; [github.com/JacobFarrow](https://github.com/JacobFarrow)
+:::
+- Developed a cross-platform mobile flashcard app in .NET MAUI with local SQLite persistence, letting users create, edit, and organize custom study sets.
+- Built a quiz mode with answer reveal and score tracking to reinforce active recall.
+:::
+
+::: {.timeline-item}
+### Password Manager
+::: {.timeline-role}
+Python, Tkinter &nbsp;|&nbsp; [github.com/JacobFarrow](https://github.com/JacobFarrow)
+:::
+- Built a desktop password manager with a Python GUI that encrypts stored credentials at rest to protect user data.
 :::
 
 ::: {.section-title}
@@ -76,16 +113,19 @@ Skills
 **Languages**
 
 ::: {.badge-row}
-[Python]{.skill-badge}
 [C#]{.skill-badge}
-[C++]{.skill-badge}
+[Python]{.skill-badge}
+[SQL]{.skill-badge}
+[TypeScript]{.skill-badge}
 :::
 
 **Frameworks & Libraries**
 
 ::: {.badge-row}
-[.NET Core]{.skill-badge}
-[.NET 5+]{.skill-badge}
+[ASP.NET Core]{.skill-badge}
+[.NET MAUI]{.skill-badge}
+[Entity Framework Core]{.skill-badge}
+[React]{.skill-badge}
 :::
 
 **Tools & Platforms**
@@ -94,11 +134,15 @@ Skills
 [Git]{.skill-badge}
 [VS Code]{.skill-badge}
 [Rider]{.skill-badge}
+[SQLite]{.skill-badge}
+[Swagger]{.skill-badge}
+[JWT/OAuth basics]{.skill-badge}
 :::
 
-**Other**
+**Concepts**
 
 ::: {.badge-row}
-[Object-Oriented Programming]{.skill-badge}
-[Communication]{.skill-badge}
+[Object-Oriented Design]{.skill-badge}
+[RESTful APIs]{.skill-badge}
+[Agile/Scrum]{.skill-badge}
 :::
