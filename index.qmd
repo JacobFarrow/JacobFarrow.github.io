@@ -52,6 +52,16 @@ Desktop password manager with a Python/Tkinter GUI that encrypts stored credenti
 
 [View on GitHub →](https://github.com/JacobFarrow/Password_Manager){.card-link}
 :::
+
+::: {.info-card}
+::: {.icon}
+🔳
+:::
+### ScanSmith (Team Project)
+Offline, cross-platform QR code generator built in Python with a 5-person team — customizable colors, embedded logos, adjustable pip styles, and PNG/SVG/JPG export.
+
+[View on GitHub →](https://github.com/masontuft/ScanSmith){.card-link}
+:::
 :::
 
 ::: {.section-title}
