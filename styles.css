@@ -132,6 +132,14 @@ a {
   display: block;
 }
 
+.card-link {
+  display: inline-block;
+  margin-top: 0.9rem;
+  color: #2b6cb0;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
 /* ===== Skill badges ===== */
 .badge-row {
   display: flex;

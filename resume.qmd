@@ -68,7 +68,7 @@ Projects
 ::: {.timeline-item}
 ### TaskPortal
 ::: {.timeline-role}
-C#, ASP.NET Core 8, Entity Framework Core, React, TypeScript, JWT &nbsp;|&nbsp; [github.com/JacobFarrow](https://github.com/JacobFarrow)
+C#, ASP.NET Core 8, Entity Framework Core, React, TypeScript, JWT &nbsp;|&nbsp; [github.com/JacobFarrow/Task-Management](https://github.com/JacobFarrow/Task-Management)
 :::
 - Built a full-stack task/project management app with an ASP.NET Core Web API backend and a React + TypeScript frontend, including JWT authentication and user-scoped data isolation.
 - Implemented a drag-and-drop Kanban board across multiple projects with task priority levels, due dates, and overdue-task highlighting; documented the API with Swagger.
@@ -77,7 +77,7 @@ C#, ASP.NET Core 8, Entity Framework Core, React, TypeScript, JWT &nbsp;|&nbsp; 
 ::: {.timeline-item}
 ### FlashCardApp
 ::: {.timeline-role}
-C#, .NET MAUI, SQLite &nbsp;|&nbsp; [github.com/JacobFarrow](https://github.com/JacobFarrow)
+C#, .NET MAUI, SQLite &nbsp;|&nbsp; [github.com/JacobFarrow/FlashCardApp](https://github.com/JacobFarrow/FlashCardApp)
 :::
 - Developed a cross-platform mobile flashcard app in .NET MAUI with local SQLite persistence, letting users create, edit, and organize custom study sets.
 - Built a quiz mode with answer reveal and score tracking to reinforce active recall.
@@ -86,7 +86,7 @@ C#, .NET MAUI, SQLite &nbsp;|&nbsp; [github.com/JacobFarrow](https://github.com/
 ::: {.timeline-item}
 ### Password Manager
 ::: {.timeline-role}
-Python, Tkinter &nbsp;|&nbsp; [github.com/JacobFarrow](https://github.com/JacobFarrow)
+Python, Tkinter &nbsp;|&nbsp; [github.com/JacobFarrow/Password_Manager](https://github.com/JacobFarrow/Password_Manager)
 :::
 - Built a desktop password manager with a Python GUI that encrypts stored credentials at rest to protect user data.
 :::
